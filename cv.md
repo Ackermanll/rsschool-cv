@@ -27,7 +27,8 @@ Information security Bachelor’s Degree
 Complete HTML, CSS and JavaScript courses on [code-basics](https://ru.code-basics.com/)  
 
 ## English  
-**A2 
+**A2 Pre-intermediate** 
+
 
 
 
