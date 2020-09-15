@@ -29,7 +29,3 @@ Complete HTML, CSS and JavaScript courses on [code-basics](https://ru.code-basic
 ## English  
 **A2 Pre-intermediate** 
 
-
-
-
-
